@@ -4,7 +4,7 @@ An open-source archive of [GenePattern](https://www.genepattern.org) module zip 
 
 ## Purpose
 
-GenePattern is a genomic analysis platform, initiallyy developed at the Broad Institute with continued development at the University of California San Diego, that provides access to hundreds of bioinformatics tools through a common interface. This repository is a copy of the GenePattern public module catalog server, archiving the module zip files that make up that catalog.
+GenePattern is a genomic analysis platform, initially developed at the Broad Institute with continued development at the University of California San Diego, that provides access to hundreds of bioinformatics tools through a common interface. This repository is a copy of the GenePattern public module catalog server, archiving the module zip files that make up that catalog.
 
 By hosting these artifacts publicly, this repository ensures that analyses performed with GenePattern modules can be reproduced in the future  if the original module server is unavailable,  preserving the provenance chain for published research.
 
